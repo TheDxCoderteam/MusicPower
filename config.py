@@ -86,7 +86,7 @@ clean = {}
 autoclean = []
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://github.com/TheDxCoderteam/MusicPower"
+    "START_IMG_URL", "https://telegra.ph/file/02294e65eaa62e94dce4d.jpg"
 )
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://graph.org/file/f16f757fe9c10f81b67ef.jpg"
